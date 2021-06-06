@@ -1,0 +1,27 @@
+{
+	"name": "sc-remark-reveal-mutate",
+	"version": "0.1.0",
+	"description": "A Gatsby Remark plugin to mutate contents for reveal.js",
+	"main": "index.js",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stackcheats/sc-remark-reveal-mutate-plugin"
+	},
+	"private": false,
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "echo \"No build script setup\""
+	},
+	"keywords": [
+		"gatsby",
+		"gatsby-plugin",
+		"stackcheats",
+		"reveal"
+	],
+	"author": "athiththan11",
+	"license": "MIT",
+	"dependencies": {}
+}
