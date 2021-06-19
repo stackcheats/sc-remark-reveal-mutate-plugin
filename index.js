@@ -23,7 +23,7 @@ function mutate(md) {
  * @returns
  */
 function mutateContent(md) {
-  let noteDel = getDelimiterRegx('revealnote:')
+  let noteDel = getDelimiterRegx('reveal-note:')
   let verticalDel = getDelimiterRegx('--v--')
 
   if (md.match(verticalDel)) {

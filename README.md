@@ -40,7 +40,7 @@ The following structure is used to represent the markdown contents for `reveal` 
 reveal: true    # frontmatter says it is reveal content
 --v--           # used to annotate vertical slide
 --h--           # used to annotate horizontal slide
-revealnote:     # used to annotate notes
+reveal-note:     # used to annotate notes
 ```
 
 A sample markdown content is given below
@@ -66,7 +66,7 @@ StackCheats now supports `revealjs` slide decks to provide more feasible content
 
 Now you are watching a vertical slide content
 
-revealnote:
+reveal-note:
 
 This a side (speaker) note section presenting few additional points or notes relevant to this particular slide. 
 
